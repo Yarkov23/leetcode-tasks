@@ -1,5 +1,6 @@
 package org.example.task_16;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -26,6 +27,12 @@ public class MajorityElement {
             }
         }
         return max;
+    }
+
+    // Sort method
+    public int majorityElementWithSort(int[] nums) {
+        Arrays.sort(nums);
+        return nums[nums.length / 2];
     }
 
 }
