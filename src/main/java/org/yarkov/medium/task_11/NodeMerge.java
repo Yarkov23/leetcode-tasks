@@ -4,9 +4,6 @@ import org.yarkov.structure.ListNode;
 
 public class NodeMerge {
 
-
-
-
     public ListNode mergeNodes(ListNode head) {
         return readThroughList(head.next, new ListNode());
     }
