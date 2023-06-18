@@ -1,4 +1,4 @@
-package org.yarkov.medium.task_11;
+package org.yarkov.medium;
 
 import org.yarkov.structure.ListNode;
 

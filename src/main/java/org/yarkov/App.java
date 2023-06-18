@@ -1,6 +1,6 @@
 package org.yarkov;
 
-import org.yarkov.easy.task_16.MajorityElement;
+import org.yarkov.easy.MajorityElement;
 
 public class App {
     public static void main(String[] args) {

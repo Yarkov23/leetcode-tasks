@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_3;
+package org.yarkov.easy;
 
 public class GoodPairs {
 

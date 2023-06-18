@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_13;
+package org.yarkov.easy;
 
 public class GoalParser {
 

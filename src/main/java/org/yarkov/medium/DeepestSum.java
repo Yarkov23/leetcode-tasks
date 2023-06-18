@@ -1,4 +1,4 @@
-package org.yarkov.medium.task_7;
+package org.yarkov.medium;
 
 
 import org.yarkov.structure.TreeNode;

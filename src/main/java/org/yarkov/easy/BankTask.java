@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_6;
+package org.yarkov.easy;
 
 public class BankTask {
 

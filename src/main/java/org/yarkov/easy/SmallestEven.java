@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_8;
+package org.yarkov.easy;
 
 public class SmallestEven {
 

@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_10;
+package org.yarkov.easy;
 
 public class RunningSum {
 

@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_16;
+package org.yarkov.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;

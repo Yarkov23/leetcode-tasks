@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_14;
+package org.yarkov.easy;
 
 import java.util.Arrays;
 

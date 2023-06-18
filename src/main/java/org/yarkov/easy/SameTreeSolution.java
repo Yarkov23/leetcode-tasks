@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_17;
+package org.yarkov.easy;
 
 import org.yarkov.structure.TreeNode;
 

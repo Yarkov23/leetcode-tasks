@@ -1,4 +1,4 @@
-package org.yarkov.easy.task_12;
+package org.yarkov.easy;
 
 public class MaxWordsInSentence {
 
