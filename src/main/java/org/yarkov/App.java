@@ -1,14 +1,13 @@
 package org.yarkov;
 
-import org.yarkov.easy.MajorityElement;
+import org.yarkov.medium.PeoplesGroups;
 
 public class App {
     public static void main(String[] args) {
 
-        var majorityElement = new MajorityElement();
+        var peoplesInGroups = PeoplesGroups.groupThePeople(new int[]{2, 1, 3, 3, 3, 2});
 
-        var res = majorityElement.majorityElement(new int[]{6, 6, 6, 7, 7});
-        System.out.println(res);
+        System.out.println(peoplesInGroups);
 
     }
 }
