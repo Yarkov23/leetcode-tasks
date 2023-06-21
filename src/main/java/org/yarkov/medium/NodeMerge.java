@@ -33,21 +33,4 @@ public class NodeMerge {
         readListNode(head);
     }
 
-    public static void main(String[] args) {
-        ListNode listNode = new ListNode();
-        listNode.val = 0;
-        listNode.next = new ListNode();
-        listNode.next.val = 3;
-        listNode.next.next = new ListNode();
-        listNode.next.next.val = 1;
-        listNode.next.next.next = new ListNode();
-        listNode.next.next.next.val = 0;
-        listNode.next.next.next.next = new ListNode();
-        listNode.next.next.next.next.val = 1;
-        listNode.next.next.next.next.next = new ListNode();
-        listNode.next.next.next.next.next.val = 0;
-
-        readListNode(listNode);
-    }
-
 }

@@ -30,15 +30,4 @@ public class DeepestSum {
         findSumLevel(root.right, level + 1);
         findSumLevel(root.left, level + 1);
     }
-
-
-    public static void main(String[] args) {
-        TreeNode root = new TreeNode();
-        root.val = 1;
-        root.right = new TreeNode();
-        root.right.val = 3;
-        root.left = new TreeNode();
-        root.left.val = 2;
-        System.out.println(new DeepestSum().deepestLeavesSum(root));
-    }
 }
