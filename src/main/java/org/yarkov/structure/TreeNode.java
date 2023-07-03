@@ -1,6 +1,6 @@
 package org.yarkov.structure;
 
-public class TreeNode {
+public class TreeNode implements {
 
     public int val;
     public TreeNode left;

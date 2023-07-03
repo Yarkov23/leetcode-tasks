@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 public class PeoplesGroups {
+
     public static List<List<Integer>> groupThePeople(int[] groupSizes) {
 
         List<List<Integer>> result = new ArrayList<>();
